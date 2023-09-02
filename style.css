@@ -127,6 +127,10 @@ header{
         color: darkorange;
         
     }
+    .category-title{
+        font-size: 20px;
+        margin-left: .5rem;
+    }
 }
 /* header */
 /* nav */
