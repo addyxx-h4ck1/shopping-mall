@@ -37,6 +37,26 @@ header{
 .random-product img{
     width: 200px;
 }
+.nav-images img {
+    width: 100%;
+}
+@media screen and (max-width: 330px){
+    header{
+        display: block;
+        height: fit-content;
+    }
+    .random-product img{
+        display: none;
+    }
+    .header-icons{
+        font-size: 15px;
+    }
+    .welcome-message h1{
+        font-size: 25px;
+        color: darkorange;
+        text-align: center;
+    }
+}
 
 @media screen and (max-width: 2000px){
     .random-product img{
@@ -62,6 +82,34 @@ header{
         margin-top: .5rem;
     }
 }
+@media screen and (max-width: 300px){
+    .random-product img{
+        width: 90px;
+    }
+    .nav-images img {
+        width: 100%;
+    }
+    .welcome-message h1{
+        font-size: 20px;
+        color: darkorange;
+    }
+    .welcome-message h3{
+        font-size: 15px;
+        
+    }
+    .welcome-message h5{
+        font-size: 15px;
+        color: darkorange;
+        
+    }
+    .header-icons{
+        font-size: 25px;
+        word-spacing: 1rem;
+        text-align: center;
+        margin-top: .5rem;
+    }
+    
+}
 /* header */
 /* nav */
 .item-nav{
@@ -81,7 +129,6 @@ header{
     gap: .5rem;
     flex-wrap: wrap;
     margin-top: 1rem;
-    justify-content: center;
 }
 .main-card{
     width: 190px;
@@ -102,6 +149,42 @@ header{
     color: black;
     font-size: 20px;
     text-decoration: none;
+}
+@media screen and (min-width: 200px){
+    /* main flash sales */
+    .flash-sales{
+        display: flex;
+        column-gap: .5rem;
+        row-gap: .2rem;
+        flex-wrap: wrap;
+        margin-top: 1rem;
+        justify-content: center;
+    }
+    .main-card{
+        width: 140px;
+        height: fit-content;
+    }
+    .main-card img{
+        width: 140px;
+    }
+    .main-card h4{
+        color: red;
+    }
+    .main-card h3{
+        font-size: 15px;
+    }
+    .main-card button {
+        padding: 10px 16px;
+        background-color: darkorange;
+        width: 100%;
+        border: none;
+    }
+    .main-card a {
+        color: black;
+        font-size: 17px;
+        text-decoration: none;
+    }
+/* main flash sales */
 }
 /* main flash sales */
 
