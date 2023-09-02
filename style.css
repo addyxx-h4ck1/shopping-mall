@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* social links */
+.fa-facebook{
+    color: blue;
+}
+.fa-twitter{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 50%;
+}
+.fa-pinterest{
+    color: red;
+}
+.fa-whatsapp{
+    color: green;
+}
+.fa-instagram{
+    color: red;
+}
+/* social links */
+/* header */
+header{
+    display: flex;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: #ffffff;
+    box-shadow:  20px 20px 60px #9b9898,
+                -20px -20px 60px #868686;
+    justify-content: space-around;  
+    align-items: center;
+    height: 150px;          
+}
+.random-product img{
+    width: 200px;
+}
+
+@media screen and (max-width: 2000px){
+    .random-product img{
+        width: 100px;
+    }
+    .welcome-message h1{
+        font-size: 25px;
+        color: darkorange;
+    }
+    .welcome-message h3{
+        font-size: 25px;
+        
+    }
+    .welcome-message h5{
+        font-size: 15px;
+        color: darkorange;
+        
+    }
+    .header-icons{
+        font-size: 25px;
+        word-spacing: 1rem;
+        text-align: center;
+        margin-top: .5rem;
+    }
+}
+/* header */
+/* nav */
+.item-nav{
+    text-align: center;
+    word-spacing: .5rem;
+    margin-top: 1rem;
+}
+.item-nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+/* nav */
+/* main flash sales */
+.flash-sales{
+    display: flex;
+    gap: .5rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    justify-content: center;
+}
+.main-card{
+    width: 190px;
+}
+.main-card img{
+    width: 190px;
+}
+.main-card h4{
+    color: red;
+}
+.main-card button {
+    padding: 10px 16px;
+    background-color: darkorange;
+    width: 100%;
+    border: none;
+}
+.main-card a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+/* main flash sales */
+
+/* footer */
+footer{
+    background-color: #868686;
+}
+.footer{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.footer-menu{
+    word-spacing: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+.footer-menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.footer-icons{
+    font-size: 25px;
+    word-spacing: 1rem;
+}
+/* footer */
