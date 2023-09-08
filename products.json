@@ -1,57 +1,135 @@
 {
     "flashSales" : [
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/9480/2023/06/16871758857171638794a07754fa39106ed5fb0ce6d0d_240.jpg.webp",
-            "name": "Fashion  Men's Shoes Board Shoes Outdoor ",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5348/2022/06/1656044703862aa9dc55e2a7241e6a577fc6bc4336e23_360.jpg.webp",
+            "name": "New arrival",
             "price": "Ksh 2000",
-            "id" : "ygygfluw"
+            "id" : "1"
 
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/6194/2022/06/16563987428779df26ec181d247878974d085c9fa0022_240.jpg.webp",
-            "name": "New Arrival Quick drying t-shirt men's summer new T-shirt ",
-            "price": "Ksh 1000",
-            "id" : "jkshdiuhdi"
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7479/2022/03/1646447681381bd50bcec03e743ecac7824d5fd2cf5aa_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 2000",
+            "id" : "2"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/4805/2023/05/4805_07385327755656670_360.jpg.webp",
-            "name": "New Arrivals 2 piece men's clothes short-sleeve T-shirts+athletic",
-            "price": "Ksh 1000",
-            "id" : "hegweuieu"
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/4805/2022/07/4805_07111507239477094_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 1500",
+            "id" : "3"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/5815/2022/02/16456123451390bec8e5913f8434289dd4c137eda307d_360.jpeg.webp",
-            "name": "【Special Offer】2PCS  Pillow Filter Memory Foam Pillow",
-            "price": "Ksh 1000",
-            "id" : "uweuyrey"
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6341/2023/08/1692933345788d88bf159ca9c43d4a2660dcdc8b47bbb_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 2500",
+            "id" : "4"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/4805/2022/04/4805_07030304450020154_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 1800",
+            "id" : "5"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6151/2023/05/1684289932468bd17dbbb983b4e68acff3113a0ef9766_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 2100",
+            "id" : "6"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7944/2023/02/1676298318528c60f17ee6252494aa2bb37d114e805db_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 2000",
+            "id" : "7"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5824/2022/08/16614187171479e4e7f2e85b642699eb800139268a33a_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 2000",
+            "id" : "8"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6818/2023/02/6818_07290155272197985_360.jpg.webp",
+            "name": "New Arrival",
+            "price": "Ksh 2000",
+            "id" : "9"
         }
 
     ],
 
     "electronics": [
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/6455/2023/08/1691677138666dc505f5dec494d5590617c9512d1a790_360.jpg.webp",
-            "name": "VITRON 32 INCH ELECTRONICS FRAMELESS HD DIGITAL TV LED",
-            "price": "Ksh 15000",
-            "id" : "ette7623yywue"
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6818/2023/02/1677483838140f420b196e4304fab96901fd49679ced6_360.jpg.webp",
+            "name": "Ladies Shoes High Quality Fashion Women Athletic Shoes",
+            "price": "Ksh 1700",
+            "id" : "etfy"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/2584/2018/06/2584_05817860466476812_360.png.webp",
-            "name": "Mini audio artillery multimedia portable small sound box 2.1",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7944/2023/02/7944_07309338048325832_360.jpg.webp",
+            "name": "Thick-soled Women shoes Increase Casual Shoes Lace-up Girls Sport Shoes",
+            "price": "Ksh 1500",
+            "id" : "h765"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6151/2023/05/168429159845539e11e5033d1475692798044ed01e597_360.jpg.webp",
+            "name": "SXCHEN New Women's Shoes Sneakers Women Season All-Match Shoes Work party G",
+            "price": "Ksh 2500",
+            "id" : "dgwd"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/9298/2023/08/1692272274865c0a73a41125b407fa410644859a18061_360.jpeg.webp",
+            "name": "Ladies quality bee women shoes sneaker with glitters",
+            "price": "Ksh 3200",
+            "id" : "tqwr"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/4516/2023/03/167931580142618980d19a2ee41118eb970c590464b8d_360.jpg.webp",
+            "name": "women shoes ladies shoes sneakers women shoe",
+            "price": "Ksh 1500",
+            "id" : "y63h"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5824/2022/09/1663234162228e330ef2565a44af29be7648653df385e_360.jpg.webp",
+            "name": "Ladies Shoes Women Shoes Sneakers Sport Shoes Women Athletic Rubber Shoes",
+            "price": "Ksh 1400",
+            "id" : "twh6"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7082/2021/11/7082_06893464081403880_360.jpg.webp",
+            "name": "Lady's inside tall canvas shoes, zipper rivet leopard print belt buckle",
+            "price": "Ksh 3600",
+            "id" : "768e"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/8565/2022/09/1662711253460f724e070b352425ba252f09b642822e9_360.jpg.webp",
+            "name": "2022 New Summer Women Sneakers White Women Shoes Canvas Slip ",
             "price": "Ksh 3500",
-            "id" : "hgygfeuw7"
+            "id" : "ysdg"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/5963/2023/07/169042018396976c15669a15a409ea26573b8e3e0cd5f_360.jpg.webp",
-            "name": "Lenovo/Lenovo RGB Color Glow Earphones 7.1 Channel Lol Game",
-            "price": "Ksh 3500",
-            "id" : "dgwdyter632"
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7331/2023/05/1684576276469f0a61c1321f44c9c880eb3cc1fc8668d_360.jpg.webp",
+            "name": "New Arrivals women's cloth shoes ladies' casual sports shoes",
+            "price": "Ksh 3200",
+            "id" : "654g"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/7337/2021/06/7337_06768075724922505_360.jpg.webp",
-            "name": "Earbud Comfortable 3.5mm Interface Consumer Electronics Noise Isolation",
-            "price": "Ksh 600",
-            "id" : "tqwrtyjg772"
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7331/2021/12/16393013308971e25f78496d64e67aea72c324f284187_360.jpg.webp",
+            "name": "Women's Shoes Ladies Shoes Sports Shoes Rubber Shoes Sneakers",
+            "price": "Ksh 1900",
+            "id" : "rsyv"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/4805/2020/03/4805_06376096468442523_360.jpg.webp",
+            "name": "Fashion board shoes rubber shoes Fashion board shoes rubber soles non-slip",
+            "price": "Ksh 4000",
+            "id" : "hdiw"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/10387/2023/09/1693647332822118c73b2f192420b81d5756cae1f79ea_360.jpg.webp",
+            "name": "Fashion Women's lace-up sports sneakers ladies comfortable athletic casual running shoes-Grey",
+            "price": "Ksh 3000",
+            "id" : "478h"
         }
     ]
 }

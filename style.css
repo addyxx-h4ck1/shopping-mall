@@ -137,11 +137,11 @@ header{
 .item-nav{
     text-align: center;
     word-spacing: .5rem;
-    margin-top: 1rem;
+    margin-top: .2rem;
 }
 .item-nav a {
     text-decoration: none;
-    color: black;
+    color: green;
     font-size: 17px;
 }
 /* nav */
@@ -212,7 +212,7 @@ header{
 
 /* footer */
 footer{
-    background-color: #868686;
+    background-color: #303030;
 }
 .footer{
     margin-top: 1rem;
@@ -237,3 +237,36 @@ footer{
     word-spacing: 1rem;
 }
 /* footer */
+
+/* flash sales */
+.flash-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+}
+.flash{
+    width: 100px;
+    height: fit-content;
+   
+}
+.flash img {
+    width: 100px;
+}
+.flash button{
+    padding: 10px 16px;
+    background-color: darkorange;
+    width: 100%;
+    border: none;
+}
+.flash a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.flash-price {
+    color:green;
+}
+/* flash sales */
