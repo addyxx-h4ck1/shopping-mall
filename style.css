@@ -270,3 +270,32 @@ footer{
     color:green;
 }
 /* flash sales */
+
+/* jordan advert */
+.advert-jordan{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+.advert-jordan h2{
+    color: #ffffff4b;
+    font-family: monospace;
+}
+.jordan{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.jordan img {
+    width: 125px;
+    height: 100px;
+}
+.advert-jordan a{
+   padding: 10px;
+   background-color: rgb(0, 160, 0);
+   text-decoration: none;
+   color: black;
+   border-radius: 10px;
+}
+/* jordan advert */

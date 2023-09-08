@@ -131,5 +131,99 @@
             "price": "Ksh 3000",
             "id" : "478h"
         }
+    ],
+    "men" : [
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/9480/2023/06/16871758857171638794a07754fa39106ed5fb0ce6d0d_360.jpg.webp",
+            "name": "Fashion Men's Shoes Board Shoes Outdoor Casual ",
+            "price": "Ksh 2500",
+            "id" : "jshd"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5348/2022/06/1656044703862aa9dc55e2a7241e6a577fc6bc4336e23_360.jpg.webp",
+            "name": "New arrival Leather Sneakers Sports shoes Men's Shoes Rubber",
+            "price": "Ksh 2000",
+            "id" : "uhaj"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5348/2022/06/1656044703862aa9dc55e2a7241e6a577fc6bc4336e23_360.jpg.webp",
+            "name": "New Arrival Fashion High Quality Splicing Men's Board Shoes ",
+            "price": "Ksh 2500",
+            "id" : "jhak"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6156/2022/01/1642581760258633cf6aec33a40f999126e90ed6b3c42_360.png.webp",
+            "name": "Mens Sneakers Shoes Sports Shoes Breathable Running Shoes",
+            "price": "Ksh 1500",
+            "id" : "634j"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5824/2022/04/16496663141210725424c702049878e06094fc1d12909_360.jpg.webp",
+            "name": "Shoes Men Shoes Sneakers Athletic Casual Shoes for Men Sport ",
+            "price": "Ksh 1600",
+            "id" : "gykk"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/2368/2023/08/169235233209882040a5db4d64fce8f0795cc40869e4c_360.jpg.webp",
+            "name": "Men's Sneakers 2023 New Men Shoes Outdoor Leather Men Casual Shoes",
+            "price": "Ksh 2500",
+            "id" : "k4sdy"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/4805/2023/03/4805_07314273022080495_360.jpg.webp",
+            "name": "New Arrivals Men's fashion breathable sneakers mesh surface ",
+            "price": "Ksh 2700",
+            "id" : "7n2h"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6292/2023/07/1690354213358631c333263d44bb580700b78af9ac9b5_360.jpg.webp",
+            "name": "2023 New In Casual Men’s Running Shoes Cushion Breathable Mesh Shoes ",
+            "price": "Ksh 2400",
+            "id" : "teywj"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6151/2023/02/1675828730593fbfcab99c60d47ac8694c0686262e266_360.jpg.webp",
+            "name": "SXCHEN New Men's Sports Shoes Sneakers Men Running Shoes Boy Basketball Shoes ",
+            "price": "Ksh 2700",
+            "id" : "th7wj"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7944/2023/04/7944_07350599664735227_360.jpg.webp",
+            "name": "New Arrival Fashion Sneakers Sports shoes High Quality ",
+            "price": "Ksh 2600",
+            "id" : "bvsl"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/5348/2023/03/16795640997764cbf11fcb81443a98475e31e5d2411a5_360.jpg.webp",
+            "name": "New Arrivals Men's Shoes Athletic Walking shoes Sports Shoes Fashion Sneakers ",
+            "price": "Ksh 2300",
+            "id" : "gkuh"
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/2368/2023/06/16868092212201144dc1b672d4ac49f96e9769467b737_360.jpg.webp",
+            "name": "Men Shoes Skateboard Shoes Classic Wild Couple Casual Shoes ",
+            "price": "Ksh 2000",
+            "id" : "dj67"
+        }
+    ],
+    "cleaners" : [
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/8274/2022/06/1656600915509e514647b06bb4ae4a556224fd242bb6c_360.jpg.webp",
+            "name": "Handboss Universal Foam Cleaning Agent – 650ml",
+            "price": "Ksh 900",
+            "id" : "bncvn"  
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/10202/2023/07/16888351006912cdb00e6d1ce4573a2712e0059ea875e_360.jpeg.webp",
+            "name": "Handboss Foam Cleaner (cleaning agent) - Green",
+            "price": "Ksh 700",
+            "id" : "ueyiuw"  
+        },
+        {
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/8274/2022/06/1655720127782f1daacaedbe4480888e75c2451f5d0a6_360.jpg.webp",
+            "name": "Multipurpose Foam Cleaner",
+            "price": "Ksh 1200",
+            "id" : "2763"  
+        }
     ]
 }
