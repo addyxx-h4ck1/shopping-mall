@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- css links -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>SneakersHub</title>
+    <script defer src="jordan.js"></script>
+</head>
+<body>
+    <header>
+        <article class="welcome-message">
+            <h1 style="text-align: center;" >Sneakers<span style="color: green;">Hub</span></h1>
+            <div class="header-icons">
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-pinterest"></i></a>
+                <a href=""><i class="fa fa-whatsapp"></i></a>
+                <a href=""><i class="fa fa-instagram"></i></a>
+            </div>
+        </article>
+        <article class="random-product">
+            <img src="data:image/png;base64,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" alt="">
+        </article>
+    </header>
+    <nav class="item-nav">
+        <div
+            style="
+           background-color: rgb(14, 2, 2);
+           padding: 10px;
+            "
+        >
+        <a href="index.html">Home</a>
+        <a href="nike.html">Nike</a>
+        <a href="#">Jordan</a>
+        <a href="index.html">Men</a>
+        <a href="index.html">ladies</a>
+        </div>
+        <div class="nav-images">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVj7R2_oMka42uOHjZxMpKvaIq5tPsR9rHQw&usqp=CAU" alt="" height="450px">
+        </div>
+    </nav>
+    <!-- main -->
+    <section class="flash-sales" id="main">
+
+    </section>
+
+
+
+    <!-- main -->
+<!-- add -->
+<section class="advert-jordan">
+    <h2>Nike</h2>
+    <div class="jordan">
+        <img src="https://image.kilimall.com/kenya/shop/store/goods/9309/2023/03/167896073996820e11d296f9741c1898846bf037833c3_360.png.webp" alt="">
+        <img src="https://image.kilimall.com/kenya/shop/store/goods/9309/2023/05/16850925656390d714fa86c0744f08192bd9a58fdc25d_360.jpg.webp" alt="">
+        <img src="https://image.kilimall.com/kenya/shop/store/goods/8993/2023/07/8993_07422352609454802_360.jpg.webp" alt="">
+    </div>
+    <br>
+    <a href="nike.html">View More <i class="fa fa-arrow-right"></i></a>
+</section>
+<!-- add -->
+    <footer>
+        <h2 style="text-align: center; color: rgb(255, 140, 0);" >Sneakers<span style="color: green;">Hub</span></h2>
+        
+        <section class="footer">
+            <article class="footer-menu">
+                
+        <article class="footer-icons">
+            <p>Contact Us:</p>
+            <br>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-pinterest"></i></a>
+                <a href=""><i class="fa fa-whatsapp"></i></a>
+                <a href=""><i class="fa fa-instagram"></i></a>
+        </article>
+        </section>
+        <div style="text-align: center;">All Rights Reserved &copy; <script>
+            const date = new Date();
+            document.write(date.getFullYear())
+        </script></div>
+    </footer>
+</body>
+</html>

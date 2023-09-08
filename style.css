@@ -188,6 +188,7 @@ header{
     }
     .main-card img{
         width: 140px;
+        height: 140px;
     }
     .main-card h4{
         color: red;
