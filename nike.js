@@ -29,12 +29,7 @@ const responce = fetch ('products.json')
 
          const button = document.createElement('button')
          button.setAttribute("class", "flash-button")
-         const buttonA = document.createElement('a')
-         buttonA.setAttribute('href', 'mailto:briannjosh@gmail.com')
-         buttonA.textContent = (`Buy  `)
-        
-         button.appendChild(buttonA)
-
+        button.textContent = ('Buy Now')
          main.appendChild(image)
          main.appendChild(title)
          main.appendChild(price)
@@ -44,3 +39,39 @@ const responce = fetch ('products.json')
     
     })
 })
+.then(action => {
+    const buttonOn = document.querySelectorAll('.main-card button')
+    /* Open when someone clicks on the span element */
+function openNav() {
+    document.getElementById("myNav").style.width = "100%";
+}
+   
+    buttonOn.forEach(button =>{
+        button.addEventListener('click', (e)=>{
+            const imageLink = button.parentElement.children[0].src;
+            const image = document.querySelector('.overlay-content img')
+            image.setAttribute(`src`, `${imageLink}`)
+
+            const title = button.parentElement.children[1].textContent;
+            const titleh3 = document.querySelector('.overlay-content .title')
+            titleh3.textContent = (`${title}`)
+
+            const price = button.parentElement.children[2].textContent;
+            const priceh3 = document.querySelector('.overlay-content .price')
+            priceh3.textContent = (`${price}`)
+
+            const ID = button.parentElement.children[3].textContent;
+            const productID = document.querySelector('.overlay-content .P-ID')
+            productID.textContent = (`${ID}`)
+
+
+            console.log(ID);
+            openNav();
+        })
+    })
+})
+
+/* Close when someone clicks on the "x" symbol inside the overlay */
+function closeNav() {
+    document.getElementById("myNav").style.width = "0%";
+}

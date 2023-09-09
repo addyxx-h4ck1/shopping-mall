@@ -7,8 +7,12 @@
     <!-- css links -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="cart.css">
     <title>SneakersHub</title>
+
+    <!-- JS -->
     <script defer src="main.js"></script>
+
 </head>
 <body>
     <header>
@@ -44,11 +48,55 @@
         </div>
     </nav>
     <main>
+
+        <!-- The overlay -->
+    <div id="myNav" class="overlay">
+
+        <!-- Button to close the overlay navigation -->
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+        <!-- Overlay content -->
+        <div class="overlay-content">
+        <div class="item">
+            <img>
+            <p class="title"></p>
+            <p class="price"></p>
+            <p>Make an order Via:</p>
+            <p class="order">
+                <a href="https://www.facebook.com/morio.kala"><i class="fa fa-facebook"></i></a>
+                <a href="tel:0769923638"><i class="fa fa-phone"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=+254769923638"><i class="fa fa-whatsapp"></i></a>
+                <a href="mailto:briannjosh25@gmail.com"><i class="fa fa-envelope"></i></a>
+               
+            </p>
+            <p style="text-align: end; color: #f0f8ff5b;" class="P-ID"></p>
+        </div>
+        <div class="docs">
+            <h2>How to purchase a product?</h2>
+            <p >
+                <ul style="margin-left: 1.5rem; line-height: 2rem;">
+                    <li>Click on the product of your choice.</li>
+                    <li>A section will apper with the product chosen on it </li>
+                    <li>Orders can be made via email, whatsapp and facebook</li>
+                    <li>click the one you prefer.</li>
+                    <li>You'll be redirected to the sellers contact</li>
+                    <li>Make a order and chat with the seller and also track your order</li>
+                    <li>Use the product ID to identify your product to the seller.</li>
+                </ul>
+            </p>
+        </div>
+        </div>
+
+    </div>
+
+  <!-- Use any element to open/show the overlay navigation menu -->
+  <!-- <span onclick="openNav()">open</span> -->
+
         <!-- flash sales -->
         <h1 class="category-title"> <i class="fa fa-bolt"></i> Flash sales!!!!</h1>
         <section class="flash-section" id="flash-sales">
             <!-- flashsales products here -->
-            
+
         </section>
         <br>
 
@@ -100,10 +148,10 @@
     <br>
     <footer>
         <h2 style="text-align: center; color: rgb(255, 140, 0);" >Sneakers<span style="color: green;">Hub</span></h2>
-        
+
         <section class="footer">
             <article class="footer-menu">
-                
+
         <article class="footer-icons">
             <p>Contact Us:</p>
             <br>
