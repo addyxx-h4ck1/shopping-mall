@@ -192,9 +192,13 @@ header{
     }
     .main-card h4{
         color: red;
+        font-size: 13px;
     }
     .main-card h3{
-        font-size: 15px;
+        font-size: 13px;
+    }
+    .main-card .product-id{
+        font-size: 13px;
     }
     .main-card button {
         padding: 10px 16px;
@@ -262,20 +266,20 @@ footer{
     width: 100%;
     border: none;
 }
-.flash a{
-    text-decoration: none;
-    font-size: 15px;
-    color: black;
-}
+
 .flash-price {
     color:green;
+}
+.flash p{
+    color: #303030;
+    font-size: 14px;
 }
 /* flash sales */
 
 /* jordan advert */
 .advert-jordan{
     background-color: black;
-    padding: 10px;
+    padding: 30px;
     text-align: center;
 }
 .advert-jordan h2{
@@ -289,8 +293,8 @@ footer{
     align-items: center;
 }
 .jordan img {
-    width: 125px;
-    height: 100px;
+    width: 100px;
+    height: 150px;
 }
 .advert-jordan a{
    padding: 10px;

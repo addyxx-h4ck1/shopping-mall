@@ -15,7 +15,7 @@ const responce = fetch ('products.json')
          const image = document.createElement('img')
          image.setAttribute(`src`, `${product.image}`)
 
-         const title = document.createElement('h3')
+         const title = document.createElement('p')
          title.setAttribute('class', 'flash-title')
          title.textContent = (`${product.name}`)
 
