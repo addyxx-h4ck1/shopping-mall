@@ -289,7 +289,7 @@ footer{
 .jordan{
     display: flex;
     flex-wrap: nowrap;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 .jordan img {

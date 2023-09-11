@@ -1,28 +1,28 @@
 {
     "flashSales" : [
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/5348/2022/06/1656044703862aa9dc55e2a7241e6a577fc6bc4336e23_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/9451/2023/06/16876577102904f46d516de5c485e9a3097d1783f4580_360.jpg.webp",
             "name": "New arrival",
             "price": "Ksh 2000",
             "id" : "1"
 
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/7479/2022/03/1646447681381bd50bcec03e743ecac7824d5fd2cf5aa_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/1194/2022/05/1653548982075a1f3d634c0d74a648abeb7d029c14405_360.jpg.webp",
             "name": "New Arrival",
-            "price": "Ksh 2000",
+            "price": "Ksh 3000",
             "id" : "2"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/4805/2022/07/4805_07111507239477094_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6151/2023/05/1684291743755116892cad6cd4bc781ffab722d09699f_360.jpg.webp",
             "name": "New Arrival",
-            "price": "Ksh 1500",
+            "price": "Ksh 2400",
             "id" : "3"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/6341/2023/08/1692933345788d88bf159ca9c43d4a2660dcdc8b47bbb_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6059/2021/04/6059_06727693798879069_360.jpg.webp",
             "name": "New Arrival",
-            "price": "Ksh 2500",
+            "price": "Ksh 2000",
             "id" : "4"
         },
         {
@@ -32,27 +32,27 @@
             "id" : "5"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/6151/2023/05/1684289932468bd17dbbb983b4e68acff3113a0ef9766_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7943/2022/05/165208294490672ec83615dea4d208f9db9e625eed265_360.jpg.webp",
             "name": "New Arrival",
-            "price": "Ksh 2100",
+            "price": "Ksh 1800",
             "id" : "6"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/7944/2023/02/1676298318528c60f17ee6252494aa2bb37d114e805db_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/6151/2023/05/1684226009600c2a0776f10524c8a95c774e1cdbebc66_360.png.webp",
             "name": "New Arrival",
-            "price": "Ksh 2000",
+            "price": "Ksh 2400",
             "id" : "7"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/5824/2022/08/16614187171479e4e7f2e85b642699eb800139268a33a_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7774/2023/05/16850299981759c57d52666e1420f8ea384278819359f_360.jpg.webp",
             "name": "New Arrival",
-            "price": "Ksh 2000",
+            "price": "Ksh 2500",
             "id" : "8"
         },
         {
-            "image": "https://image.kilimall.com/kenya/shop/store/goods/6818/2023/02/6818_07290155272197985_360.jpg.webp",
+            "image": "https://image.kilimall.com/kenya/shop/store/goods/7944/2023/04/7944_07351445889534779_360.jpg.webp",
             "name": "New Arrival",
-            "price": "Ksh 2000",
+            "price": "Ksh 2500",
             "id" : "9"
         }
 
