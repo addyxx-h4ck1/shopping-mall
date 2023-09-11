@@ -1,4 +1,26 @@
-{
+{ 
+    "image": [
+        
+            "https://cdn.pixabay.com/photo/2020/07/19/05/31/nike-5418992_640.jpg",
+            "https://cdn.pixabay.com/photo/2021/02/03/21/17/sneakers-5979353_640.jpg",
+            "https://cdn.pixabay.com/photo/2020/04/09/09/30/nike-5020608_640.jpg",
+            "https://cdn.pixabay.com/photo/2020/07/15/18/32/sneakers-5408674_640.png"
+    ],
+    "NIKE" : [
+            "https://cdn.pixabay.com/photo/2020/05/03/19/09/nike-5126389_640.jpg",
+            "https://cdn.pixabay.com/photo/2018/10/28/23/39/shoes-3780166_640.jpg",
+            "https://cdn.pixabay.com/photo/2020/05/04/07/15/nike-5128118_640.jpg",
+            "https://cdn.pixabay.com/photo/2022/01/05/11/16/shoes-6916897_640.jpg"
+    ],
+    "J4" : [
+            "https://cdn.pixabay.com/photo/2019/11/27/16/47/jordan-4657349_640.jpg",
+            "https://cdn.pixabay.com/photo/2020/09/17/06/28/sneakers-5578127_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/04/08/16/16/kicks-2213619_1280.jpg"
+
+    ],
+    
+
+    
     "flashSales" : [
         {
             "image": "https://image.kilimall.com/kenya/shop/store/goods/9451/2023/06/16876577102904f46d516de5c485e9a3097d1783f4580_360.jpg.webp",

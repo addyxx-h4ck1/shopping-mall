@@ -1,3 +1,16 @@
+//
+const imageResponse = fetch ('products.json')
+.then(link =>{
+    return link.json()
+})
+.then(jsonLink =>{
+    const DOMsrc = document.querySelector ('.nav-images img')
+    let random = Math.floor(Math.random()*jsonLink.J4.length)
+    DOMsrc.setAttribute(`src`, `${jsonLink.J4[random]}`)
+    console.log(DOMsrc)
+})
+//
+
 const responce = fetch ('products.json')
 .then(dataBack =>{
     return dataBack.json();
