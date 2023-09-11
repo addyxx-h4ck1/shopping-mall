@@ -35,7 +35,8 @@ header{
     height: fit-content;          
 }
 .random-product img{
-    width: 200px;
+    width: 300px;
+    height: fit-content;
 }
 .nav-images img {
     width: 100%;
