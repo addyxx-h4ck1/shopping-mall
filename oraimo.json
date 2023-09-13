@@ -1,0 +1,179 @@
+{
+    "earpods" : [
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10548/2023/09/1693829886512cbbaeed3b7a442a7a9a367b4e59e73aa_360.jpg.webp",
+            "name" : "Oraimo Rhyme ANC Noise ",
+            "price": "Ksh 5500",
+            "id": "3265"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10293/2023/07/1689837599152cd1796198e8948ea82cf37cbd6975a2f_360.jpeg.webp",
+            "name" : "oraimo AirBuds 3",
+            "price": "Ksh 5600",
+            "id": "6733"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/9337/2023/09/169364812048113ae2680f8884b40a02201c690f75323_360.jpg.webp",
+            "name" : "oraimo FreePods 3C ",
+            "price": "Ksh 4600",
+            "id": "2768"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/9337/2023/09/169358525404402319d9eebc14fd2b2c0427316ccd83e_360.jpg.webp",
+            "name" : "Oraimo FreePod 4 ANC",
+            "price": "Ksh 5000",
+            "id": "6273"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10614/2023/09/1694593606837d072889d7cb24971aeba97181c701f0e_360.jpg.webp",
+            "name" : "oraimo Rock stereo Bass ",
+            "price": "Ksh 3200",
+            "id": "1676"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10614/2023/09/1694598123920e7dcc1e892f04f1d9b91b46d4a827996_360.jpg.webp",
+            "name" : "oraimo Riff ",
+            "price": "Ksh 4000",
+            "id": "1344"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10614/2023/09/1694500284650cc596510f7fd4c95a5d60e1e532d431c_360.jpg.webp",
+            "name" : "Oraimo FreePods Pro ANC ",
+            "price": "Ksh 10,000",
+            "id": "6667"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10614/2023/09/169451887054900a18b8ed06849ce8cd31d9d1507c57e_360.jpg.webp",
+            "name" : "Oraimo Pods Lite OTW-330",
+            "price": "Ksh 3000",
+            "id": "9876"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10614/2023/09/1694510100995242b96dcca584038a8831fa8e8d900fd_360.jpg.webp",
+            "name" : "Oraimo OEB-E104DC FreePods",
+            "price": "Ksh 4500",
+            "id": "9875"
+        }
+        
+    ],
+    "earphonesandnecklace" : [
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10519/2023/08/1692862583233d53042974de04629b235e754a598c8e7_360.jpg.webp",
+            "name" : "Oraimo Necklace 4 Dual EQ ",
+            "price": "Ksh 5000",
+            "id": "1245"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10548/2023/09/16938477994492e9a6c9d6e59421dba722626ad638a63_360.jpg.webp",
+            "name" : "Oraimo Necklace 5C Bluetooth ",
+            "price": "Ksh 4900",
+            "id": "6783"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10519/2023/08/1692862039390d944b6f345204a67bc2c33a1251f1811_360.jpg.webp",
+            "name" : "Oraimo Shark 4 Dual EQ ",
+            "price": "Ksh 4000",
+            "id": "6798"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10295/2023/08/16913044279692182d5cfc6144820b2bd78039c1f1b2d_360.jpg.webp",
+            "name" : "Oraimo Strong Bass Earphone",
+            "price": "Ksh 600",
+            "id": "7898"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10548/2023/09/169382918812802bc3f95a6ed466683d459cfd39fbe25_360.jpg.webp",
+            "name" : "Oraimo Deeper Bass",
+            "price": "Ksh 800",
+            "id": "5273"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10548/2023/09/169382918812802bc3f95a6ed466683d459cfd39fbe25_360.jpg.webp",
+            "name" : "Oraimo Deeper Bass",
+            "price": "Ksh 800",
+            "id": "5273"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/9674/2023/08/1691623841490ce9476f392a44637ab6b90ab88ae5c1c_360.jpg.webp",
+            "name" : "Oraimo Strong Bass Earphones",
+            "price": "Ksh 1300",
+            "id": "7948"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/9392/2023/07/168967493653238b6aa63152a43218cd462c86c806811_360.jpeg.webp",
+            "name" : "ORAIMO WIRELESS HEADPHONES",
+            "price": "Ksh 4500",
+            "id": "6784"
+        }
+       
+    ],
+    "soundbars" : [
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10261/2023/07/16900157998161a31d693bac94893b97a57454aa0c979_360.jpg.webp",
+            "name" : "Oraimo Rover RGB Speaker",
+            "price": "Ksh 5500",
+            "id": "glsj"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10293/2023/08/169106214359801eb4a88bf894414b0be0ca3da3a9649_360.jpg.webp",
+            "name" : "Oraimo OBS-91D 16W ",
+            "price": "Ksh 8000",
+            "id": "nkik"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/8958/2022/12/1671785017426860fd583ece34bc3898485dbc569f311_360.jpg.webp",
+            "name" : "Oraimo Boom Portable Wireless",
+            "price": "Ksh 14,000",
+            "id": "4277"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/10261/2023/07/16899479076963ea4172751564d74a842b2842a68bd1a_360.png.webp",
+            "name" : "Oraimo Boom OBS-75D",
+            "price": "Ksh 8000",
+            "id": "6ydi"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/8690/2023/04/1681810199121e2cd0ce6e00c44c58860001e16626e83_360.jpg.webp",
+            "name" : "oraimo RoverIPX5 Speaker",
+            "price": "Ksh 5000",
+            "id": "h627"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/8662/2022/12/16712828557409e0b2c1a0a9b4ece9160a1fe83a08d07_360.jpg.webp",
+            "name" : "Oraimo SoundPro Speaker",
+            "price": "Ksh 4200",
+            "id": "h837"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/8661/2022/12/1671235844211edcf25ea359e431b80ea3a0aff8bc832_360.jpg.webp",
+            "name" : "Oraimo Portable Subwoofer",
+            "price": "Ksh 4900",
+            "id": "y567"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/8690/2022/09/166391539862217bc6cd9af7c4cba916cae46d53ce2cf_360.png.webp",
+            "name" : "oraimo OBS-92D Tilt ",
+            "price": "Ksh 6000",
+            "id": "biwk"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/9592/2023/07/16884714522100793433d082c416da5323d264ff53073_360.jpg.webp",
+            "name" : "ORAIMO Sound Pro 2C 10W",
+            "price": "Ksh 4700",
+            "id": "3527"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/5933/2020/03/5933_06378625821456294_360.jpg.webp",
+            "name" : "Oraimo SoundPro OBS-52D ",
+            "price": "Ksh 4900",
+            "id": "busk"
+        },
+        {
+            "image" : "https://image.kilimall.com/kenya/shop/store/goods/8660/2022/12/1669895668168eb9608c8996d464fae0d9486de98d4b6_360.jpg.webp",
+            "name" : "oraimo Palm Powerful Speaker",
+            "price": "Ksh 3000",
+            "id": "bguj"
+        }
+        
+]
+}

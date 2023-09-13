@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- css links -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="cart.css">
+    <link rel="icon" href="./icons/favicon.ico" type="image/x-icon">
+    <title>SneakersHub</title>
+
+    <!-- JS -->
+    <script defer src="oraimo.js"></script>
+
+</head>
+<body>
+    <header>
+        <article class="welcome-message">
+            <h1 style="text-align: center;" >Oraimo<span style="color: green;">promo</span></h1>
+            <p style="text-align: center; color: black;">smart accessories</p>
+            <div class="header-icons">
+                <a href="https://www.facebook.com/morio.kala"><i class="fa fa-facebook"></i></a>
+                <a href="https://wa.me/+254769923638"><i class="fa fa-whatsapp"></i></a>
+                <a href="mailto:briannjosh25@gmail.com"><i class="fa fa-envelope"></i></a>
+                <a href="tel:0769923638"><i class="fa fa-phone"></i></a>
+            </div>
+        </article>
+        <article class="random-product">
+            <img src="data:image/png;base64,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" alt="">
+        </article>
+    </header>
+    <nav class="item-nav">
+        <div
+            style="
+           background-color: rgb(14, 2, 2);
+           padding: 10px;
+            "
+        >
+        <a href="#">Home</a>
+        <a href="docs.html">About</a>
+        <a href="nike.html">Nike</a>
+        <a href="jordan.html">Jordan</a>
+        <a href="#menS">Men</a>
+        <a href="#ladies">ladies</a>
+        </div>
+        <!-- <div class="nav-images">
+            <img>
+        </div> -->
+    </nav>
+    <main>
+
+        <!-- The overlay -->
+    <div id="myNav" class="overlay">
+
+        <!-- Button to close the overlay navigation -->
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+        <!-- Overlay content -->
+        <div class="overlay-content">
+        <div class="item">
+            <img>
+            <p class="title"></p>
+            <p class="price"></p>
+            <p>Make an order Via:</p>
+            <p class="order">
+                <a href="https://www.facebook.com/morio.kala"><i class="fa fa-facebook"></i></a>
+                <a href="tel:0769923638"><i class="fa fa-phone"></i></a>
+                <a href="https://wa.me/+254769923638"><i class="fa fa-whatsapp"></i></a>
+                <a href="mailto:briannjosh25@gmail.com"><i class="fa fa-envelope"></i></a>
+               
+            </p>
+            <p style="text-align: end; color: #f0f8ff5b;" class="P-ID"></p>
+        </div>
+        <!-- <div class="docs">
+            <h2>How to purchase a product?</h2>
+            <p >
+                <ul style="margin-left: 1.5rem; line-height: 2rem;">
+                    <li>Click on the product of your choice.</li>
+                    <li>A section will apper with the product chosen on it </li>
+                    <li>Orders can be made via email, whatsapp and facebook</li>
+                    <li>click the one you prefer.</li>
+                    <li>You'll be redirected to the sellers contact</li>
+                    <li>Make a order and chat with the seller and also track your order</li>
+                    <li>Use the product ID to identify your product to the seller.</li>
+                </ul>
+            </p>
+        </div> -->
+        </div>
+
+    </div>
+
+  <!-- Use any element to open/show the overlay navigation menu -->
+  <!-- <span onclick="openNav()">open</span> -->
+
+        <!-- flash sales -->
+        <h1 class="category-title" id="flash" style="color: rgb(49, 179, 49); margin-left: 1rem;">Earpods</h1>
+        <section class="flash-section" id="flash-sales">
+            <!-- flashsales products here -->
+
+        </section>
+        <br>
+        <!-- flash sales -->
+        <h1 class="category-title" id="flash" style="color: rgb(49, 179, 49); margin-left: 1rem;">Necklace & Earphones</h1>
+        <section class="flash-section" id="earphones">
+            <!-- flashsales products here -->
+
+        </section>
+        <br>
+        <!-- flash sales -->
+        <h1 class="category-title" id="flash" style="color: rgb(49, 179, 49); margin-left: 1rem;">Sound Bars</h1>
+        <section class="flash-section" id="soundbars">
+            <!-- flashsales products here -->
+
+        </section>
+        <br>
+        <!-- add -->
+
+        <!-- Categories -->
+        <section >
+            <p>Buy Oraimo accessories with sneakers Hub promo and get upto 30% dicounts plus free deliveries.</p>
+        </section>
+        
+    <footer>
+        <h2 style="text-align: center; color: rgb(255, 140, 0);" >Oraimo<span style="color: green;">promo</span></h2>
+
+        <section class="footer">
+            <article class="footer-icons">
+                <img src="data:image/png;base64,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" alt="Icon" width="150px">
+
+                <p>Contact Us:</p>
+           
+                <a href="https://www.facebook.com/morio.kala"><i class="fa fa-facebook"></i></a>
+                <a href="https://wa.me/+254769923638"><i class="fa fa-whatsapp"></i></a>
+                <a href="mailto:briannjosh25@gmail.com"><i class="fa fa-envelope"></i></a>
+                <a href="tel:0769923638"><i class="fa fa-phone"></i></a>
+                </article>
+             <article class="footer-menu">
+                <a href="docs.html">About</a>
+                <a href="nike.html">Nike collection</a>
+                <a href="jordan.html">Jordan collection</a>
+             </article>
+        </section>
+        <div style="text-align: center;">All Rights Reserved &copy; <script>
+            const date = new Date();
+            document.write(date.getFullYear())
+        </script></div>
+    </footer>
+</body>
+</html>
