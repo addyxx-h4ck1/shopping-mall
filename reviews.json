@@ -1,0 +1,24 @@
+{
+    "reviews" : [
+        {
+            "image": "https://t3.ftcdn.net/jpg/03/73/52/24/360_F_373522464_UzkM3IvqgqpS0qIy2kpkB5QiV7Bw7NyS.jpg",
+            "name": "Brian Njoroge",
+            "message": "Thanks to sneakers hub you're trully amazing and wonderful people"
+        },
+        {
+            "image": "https://t4.ftcdn.net/jpg/01/25/68/37/360_F_125683702_KzYgSIAUqhI6wmxNL49pgG6XafE3E5pO.jpg",
+            "name": "Mike John",
+            "message": "Thanks to sneakers hub you're trully amazing and wonderful people"
+        },
+        {
+            "image": "https://mod.go.ke/wp-content/uploads/2022/05/passport-photo.jpg",
+            "name": "Kim Loketen",
+            "message": "Thanks to sneakers hub you're trully amazing and wonderful people"
+        },
+        {
+            "image": "https://media.licdn.com/dms/image/C4D03AQEMevGC5wDepg/profile-displayphoto-shrink_800_800/0/1645651568829?e=2147483647&v=beta&t=9kxylLFFV2C2h4oWCnK_-XvaBvKBPXonL_Jz9N68b7E",
+            "name": "Eric Mburu",
+            "message": "Thanks to sneakers hub you're trully amazing and wonderful people"
+        }
+    ]
+}

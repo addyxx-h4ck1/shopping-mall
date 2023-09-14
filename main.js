@@ -7,7 +7,7 @@ const imageResponse = fetch ('products.json')
     const DOMsrc = document.querySelector ('.nav-images img')
     let random = Math.floor(Math.random()*jsonLink.image.length)
     DOMsrc.setAttribute(`src`, `${jsonLink.image[random]}`)
-    console.log(DOMsrc)
+    
 })
 //
 

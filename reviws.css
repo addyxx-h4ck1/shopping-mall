@@ -1,0 +1,23 @@
+.review-card img{
+    width: 150px;
+    border-radius: 50%;
+    background-color: black;
+}
+.reviews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.review-card {
+    width: 200px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.review-card p{
+    color: black;
+}
+.review-card h4{
+    width: 100%;
+   
+}
